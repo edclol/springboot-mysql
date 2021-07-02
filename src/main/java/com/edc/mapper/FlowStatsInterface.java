@@ -1,6 +1,6 @@
-package com.qfanfeng.mapper;
+package com.edc.mapper;
 
-import com.qfanfeng.entry.FlowStatsKV;
+import com.edc.entry.FlowStatsKV;
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Select;
 

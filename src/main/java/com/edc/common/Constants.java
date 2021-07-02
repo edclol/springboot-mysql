@@ -1,4 +1,4 @@
-package com.qfanfeng.common;
+package com.edc.common;
 
 /**
  * 常量类

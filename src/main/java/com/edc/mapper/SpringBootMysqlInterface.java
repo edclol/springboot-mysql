@@ -1,7 +1,7 @@
-package com.qfanfeng.mapper;
+package com.edc.mapper;
 
 
-import com.qfanfeng.entry.SpringBootMysqlTest;
+import com.edc.entry.SpringBootMysqlTest;
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Select;
 

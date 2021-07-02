@@ -1,4 +1,4 @@
-package com.qfanfeng.entry;
+package com.edc.entry;
 
 /**
  *kv实体

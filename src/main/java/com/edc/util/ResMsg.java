@@ -1,4 +1,4 @@
-package com.qfanfeng.util;
+package com.edc.util;
 
 /**
  * 封装返回对象

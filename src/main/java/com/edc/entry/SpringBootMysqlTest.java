@@ -1,4 +1,4 @@
-package com.qfanfeng.entry;
+package com.edc.entry;
 
 /**
  * 和mysql整合测试实体

@@ -1,10 +1,10 @@
-package com.qfanfeng.controller;
+package com.edc.controller;
 
 
-import com.qfanfeng.common.Constants;
-import com.qfanfeng.entry.FlowStatsKV;
-import com.qfanfeng.mapper.FlowStatsInterface;
-import com.qfanfeng.util.ResMsg;
+import com.edc.common.Constants;
+import com.edc.entry.FlowStatsKV;
+import com.edc.mapper.FlowStatsInterface;
+import com.edc.util.ResMsg;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;

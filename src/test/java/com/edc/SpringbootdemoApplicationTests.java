@@ -1,4 +1,4 @@
-package com.qfanfeng;
+package com.edc;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
