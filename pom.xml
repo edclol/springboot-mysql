@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.qfanfeng</groupId>
-    <artifactId>springbootdemo</artifactId>
+    <artifactId>springboot-mysql</artifactId>
     <version>1.0</version>
-    <name>springbootdemo</name>
+    <name>springboot-mysql</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
